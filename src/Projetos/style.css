@@ -1,0 +1,35 @@
+.content-projects {
+    background-color: #fff;
+}
+
+.list-projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-weight: 300;
+    font-family: sans-serif;
+
+}
+
+.title-project {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 2rem;
+    margin-top: 10px;
+    font-family: monospace;
+   
+}
+
+.item-list-projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 50px;    
+}
+
+.name-project {
+    font-weight: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+}

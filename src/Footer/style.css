@@ -1,0 +1,28 @@
+.footer{
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: darkgray;
+    background: #090a0b;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 0.7rem;
+
+}
+
+.ul-footer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 1rem;
+    justify-content: space-around;
+    gap: 2rem;
+
+}
+
+.links {
+    color:darkgray;
+    text-decoration: none;
+    list-style: none;
+}
